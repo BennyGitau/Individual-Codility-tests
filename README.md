@@ -41,7 +41,7 @@ To run the programs;
 ### Contributions
 If you'd like to contribution send your pull requests to;
 
-- [Email](bensonkamaugitau@gmail.com)
+- [Email](mailto:bensonkamaugitau@gmail.com)
 
 ### Acknowledgement
 This program has been w ritten by;
